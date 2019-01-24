@@ -2,7 +2,7 @@
 
 # Processing SVG experiments
 
-I’ve been experimenting with generating SVGs using Processing. Creating SVGs from code opens up a world of possibilities. You can do things that would not be easy or possible by hand, and the result can then be imported into Illustrator, Sketch or your design tool of choice, augmenting the features already contained with that tool.
+I’ve been experimenting with creating SVGs programmatically, which opens up a world of possibilities. It allows patterns, shapes, and compositions that would not be easy or possible by hand. The results can then be imported into Illustrator, Sketch or your design tool of choice, augmenting their features.
 
 For more information, please take a look at this project’s companion article: [Creating SVGs using Processing](https://bjango.com/articles/processingsvg/)
 
