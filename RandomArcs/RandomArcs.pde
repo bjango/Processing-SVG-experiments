@@ -61,11 +61,3 @@ void keyReleased() {
     endRecord();
   }
 }
-
-void polygon(float x, float y, float radius, int sides, float angle) {
-  beginShape();
-  for (float a = 0; a < TAU; a += TAU / sides) {
-    vertex(x + cos(a + angle) * radius, y + sin(a + angle) * radius);
-  }
-  endShape(CLOSE);
-}
